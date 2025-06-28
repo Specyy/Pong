@@ -9,5 +9,4 @@ A simple remake of the classic Pong game using Java's AWT rendering API.
 - Two-player local gameplay
 - Software rendered using Java AWT
 - Lightweight implementation with no external dependencies
-- Keyboard-based input handling
-- Minimalist design focused on core gameplay
+- Keyboard-based input handling (W/S for player 1, Up/Down for player 2)
